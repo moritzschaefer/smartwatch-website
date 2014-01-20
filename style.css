@@ -70,7 +70,7 @@ h2{
 #intro{
 	background:url(images/firstBG.jpg) 50% 0 no-repeat fixed;
 	color: white;
-	height: 700px;
+	height: 600px;
 	margin: 0 auto;
 	padding: 0;
 }
@@ -97,7 +97,7 @@ h2{
 #third{
 	background: url(images/thirdBG.jpg) 50% 0 no-repeat fixed;
 	color: white;
-	height: 650px;
+	height: 750px;
 	padding: 40px 0 0 0;
 }
 
@@ -124,4 +124,8 @@ h2{
 	width: 50%;
 	left: 25%;
 	position: absolute;
+}
+
+.down {
+	margin-top: 200px;
 }
