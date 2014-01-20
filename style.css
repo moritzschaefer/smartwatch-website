@@ -70,7 +70,7 @@ h2{
 #intro{
 	background:url(images/firstBG.jpg) 50% 0 no-repeat fixed;
 	color: white;
-	height: 600px;
+	height: 700px;
 	margin: 0 auto;
 	padding: 0;
 }
@@ -78,7 +78,7 @@ h2{
 #second{
 	background: url(images/secondBG.jpg) 50% 0 no-repeat fixed;
 	color: white;
-	height: 1300px;
+	height: 900px;
 	margin: 0 auto;
 	overflow: hidden;
 	padding: 0;
@@ -86,7 +86,7 @@ h2{
 
 #second .bg{
 	background: url(images/trainers.png) 50% 0 no-repeat fixed;
-	height: 1300px;
+	height: 900px;
 	margin: 0 auto;
 	padding: 0;
 	position: absolute;
@@ -98,7 +98,7 @@ h2{
 	background: url(images/thirdBG.jpg) 50% 0 no-repeat fixed;
 	color: white;
 	height: 650px;
-	padding: 100px 0 0 0;
+	padding: 40px 0 0 0;
 }
 
 #fifth{
@@ -119,4 +119,9 @@ h2{
 	padding: 100px 0 0 0;
 	position: relative;
 	width: 350px;
+}
+#promovideo, #funcionvideo {
+	width: 50%;
+	left: 25%;
+	position: absolute;
 }
