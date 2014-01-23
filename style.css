@@ -90,13 +90,12 @@ h2{
 }
 
 #second .bg{
-	background: url(images/trainers.png) 50% 0 no-repeat fixed;
-	height: 900px;
+	background: url(images/watch.png) 50% 0 no-repeat fixed;
+  height: 900px;
 	margin: 0 auto;
 	padding: 0;
 	position: absolute;
-	width: 900px;
-	z-index: 200;
+	width: 1500px;
 }
 
 #fourth {
