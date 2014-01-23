@@ -47,6 +47,11 @@ h2{
 	margin: 0 20px 0 0;
 }
 
+.center-text {
+	float: left;
+	margin: 0 20px 0 0;
+}
+
 .center{
 	font-size: 2.5em;
 	padding: 80px 0 0 0;
@@ -68,7 +73,7 @@ h2{
 }
 
 #intro{
-	background:url(images/firstBG.jpg) 50% 0 no-repeat fixed;
+	background:url(images/first.jpg) 50% 0 no-repeat fixed;
 	color: white;
 	height: 600px;
 	margin: 0 auto;
@@ -76,7 +81,7 @@ h2{
 }
 
 #second{
-	background: url(images/secondBG.jpg) 50% 0 no-repeat fixed;
+	background: url(images/second.jpg) 50% 0 no-repeat fixed;
 	color: white;
 	height: 900px;
 	margin: 0 auto;
@@ -94,8 +99,15 @@ h2{
 	z-index: 200;
 }
 
+#fourth {
+	background: url(images/fourth.jpg) 50% 0 no-repeat fixed;
+	color: white;
+	height: 250px;
+	padding: 40px 0 0 0;
+}
+
 #third{
-	background: url(images/thirdBG.jpg) 50% 0 no-repeat fixed;
+	background: url(images/third.jpg) 50% 0 no-repeat fixed;
 	color: white;
 	height: 850px;
 	padding: 40px 0 0 0;
